@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/swayward-wm/.github/main/logo/swayward-256.png" width="160" alt="swayward logo: a neon circuit tree on an isometric island"></p>
+
 # swayward-wm
 
 Home of **[swayward](https://github.com/swayward-wm/swayward)**, an i3/sway-compatible
