@@ -17,6 +17,7 @@ modules, `swaymsg`, i3ipc-python and other sway tools run unmodified.
 | Repository | What it is |
 |---|---|
 | [swayward](https://github.com/swayward-wm/swayward) | The compositor. A fork of [niri](https://github.com/niri-wm/niri) with niri's scrolling layout replaced by i3's container tree and its IPC replaced by sway's. |
+| [swaywardlock](https://github.com/swayward-wm/swaywardlock) | The screen locker. Rust on Smithay, with swaylock's process conventions, hyprlock-style widgets and KDL configuration. Standalone on `ext-session-lock-v1` compositors with working EGL/OpenGL ES. |
 | [sway-ipc-oracle](https://github.com/swayward-wm/sway-ipc-oracle) | The compatibility oracle: i3's own test suite, unchanged, plus IPC replies captured from real sway. swayward is measured against it. |
 
 ## Start here
